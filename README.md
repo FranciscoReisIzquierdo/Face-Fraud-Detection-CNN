@@ -38,4 +38,7 @@ The goal of this project is to shed light on the potential of CNNs in combatting
 * MyDataset: https://github.com/FranciscoReisIzquierdo/Face-Fraud-Detection-CNN/tree/main/Datasets/Faces%20MyDataset
 
 #### Environment: https://www.kaggle.com/
+
+#### **Note**: Models built where too large to be in the repository
+
 #### Disclouser: Some of the paths to the saved models and/or datasets may be wrong depending on the environment
